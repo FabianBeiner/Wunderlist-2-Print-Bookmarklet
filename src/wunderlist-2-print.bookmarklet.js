@@ -1,0 +1,1 @@
+javascript:var d=document,s=d.createElement("script"),b=d.body;try{if(!b){throw (0);}s.setAttribute("src","http://localhost/Wunderlist-2-Print-Bookmarklet/wunderlist-2-print.src.js");b.appendChild(s);}catch(e){alert("Patience is a virtue! Please wait until the page is loaded.");}void (0);
